@@ -3,6 +3,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
+    margin-bottom: 200px;
 }
 #header {
     color: #3375B1;
@@ -18,4 +19,31 @@
     background-color: #50B1D4;
     width: 300px;
     height: 325px;
+    margin-right: 20px;
+    text-align: center;
+    color: #FEFEFE;
+    font-family: roboto;
+    font-weight: bold;
+    border-radius: 10%;
+}
+#plan-2 {
+    background-color: #3375B1;
+    width: 300px;
+    height: 360px;
+    border: 10px solid #1F466A;
+    margin-right: 20px;
+    text-align: center;
+    color: #FEFEFE;
+    font-family: roboto;
+    border-radius: 10%;
+}
+.button {
+    background-color: #6A11B1;
+    color: #FEFEFE;
+    border: unset;
+    border-radius: 10%;
+    height: 50px;
+    width: 100px;
+    font-family: roboto;
+    font-size: large;
 }
