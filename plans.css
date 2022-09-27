@@ -23,7 +23,7 @@
     text-align: center;
     color: #FEFEFE;
     font-family: roboto;
-    font-weight: bold;
+    
     border-radius: 10%;
 }
 #plan-2 {
@@ -46,4 +46,5 @@
     width: 100px;
     font-family: roboto;
     font-size: large;
+    font-weight: bold;
 }
